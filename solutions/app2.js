@@ -28,10 +28,6 @@ const cookieHandler = {
      }   
     }
 }
-cookieHandler.setCookie('viewed', '5');
-cookieHandler.setCookie('uid', '354774631237');
-cookieHandler.setCookie('ssid', 'Bx55OWbHJ0Vt_IGIF');
-
 export {
     cookieHandler
 };
